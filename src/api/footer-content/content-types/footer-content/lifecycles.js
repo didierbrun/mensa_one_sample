@@ -10,7 +10,7 @@ module.exports = {
         };
         
         const bodyParameters = {
-            branch: "release"
+            branch: "main"
         };
         
         axios.post( 
