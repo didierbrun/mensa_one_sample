@@ -14,7 +14,7 @@ module.exports = {
         };
         
         axios.post( 
-          'https://kolkrabbi.heroku.com/apps/c23cf7e8-b397-42ca-b073-25ada94efc67/github/push',
+          'https://kolkrabbi.heroku.com/apps/e8b72595-9ac8-460b-a1fb-dbdafff88456/github/push',
           bodyParameters,
           config
         ).then(console.log).catch(console.log);
